@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Engine_SDM/Engine_SDM.iml" filepath="$PROJECT_DIR$/Engine_SDM/Engine_SDM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEB_SDM/WEB_SDM.iml" filepath="$PROJECT_DIR$/WEB_SDM/WEB_SDM.iml" />
+    </modules>
+  </component>
+</project>

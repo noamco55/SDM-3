@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WEB_SDM/web/common/navBar.html" value="file://$PROJECT_DIR$/WEB_SDM/web/common" />
+        <entry key="file://$PROJECT_DIR$/WEB_SDM/web/index.html" value="file://$PROJECT_DIR$/WEB_SDM/web" />
+        <entry key="file://$PROJECT_DIR$/WEB_SDM/web/pages/digitalWallet/digitalWallet.html" value="file://$PROJECT_DIR$/WEB_SDM/web/pages/digitalWallet" />
+        <entry key="file://$PROJECT_DIR$/WEB_SDM/web/pages/makeAnSimpleOrder/makeAnSimpleOrder.html" value="file://$PROJECT_DIR$/WEB_SDM/web/pages/makeAnSimpleOrder" />
+        <entry key="file://$PROJECT_DIR$/WEB_SDM/web/pages/singleSaleArea/singleSaleArea.html" value="file://$PROJECT_DIR$/WEB_SDM/web/pages/singleSaleArea" />
+        <entry key="file://$PROJECT_DIR$/WEB_SDM/web/pages/storeOwnerOrders/storeOwnerOrders.html" value="file://$PROJECT_DIR$/WEB_SDM/web/pages/storeOwnerOrders" />
+      </map>
+    </option>
+  </component>
+</project>

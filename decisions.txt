@@ -1,0 +1,1 @@
+1. no alert for new store if store owner === area owner
