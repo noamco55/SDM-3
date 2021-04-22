@@ -17,6 +17,7 @@ import static SDM.constants.Constants.*;
 public class LoginServlet extends HttpServlet {
 
     private final String SALE_AREAS_URL = "pages/saleAreas/saleAreas.html";
+
     private final String SIGN_UP_URL = "index.html";
 
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
